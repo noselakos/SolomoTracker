@@ -8,8 +8,13 @@
 [Dd]ebug/
 [Rr]elease/
 x64/
-[Bb]in/
+SofomoTracker/[Bb]in/
+Model/[Bb]in/
+Tests/[Bb]in/
 [Oo]bj/
+SofomoTracker/src/*.js
+SofomoTracker/src/*.js.map
+SofomoTracker/dist/js/*.js
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -39,6 +44,3 @@ x64/
 *.log
 *.scc
 
-SofomoTracker/src/*.js
-SofomoTracker/src/*.js.map
-SofomoTracker/dist/js/*.js
