@@ -2,7 +2,7 @@
 
 ### Requirements:
 1. NodeJs;
-2. Visual Studio 2017;
+2. Visual Studio 2017 (with NUnit 3 Test Adapter extension for running tests);
 3. .NET Framework 4.8;
 
 ### Installation:
@@ -36,4 +36,4 @@ This a version for pure demonstration. Some improvements would have to be made f
 and probably a few more.
 
 ### Note #2:
-Some of the stuff here I've used for the first time (mainly for learning and fun): Entity Framework, Material UI
+Some of the stuff here I've used for the first time (mainly for learning and fun): Entity Framework, Material UI.
